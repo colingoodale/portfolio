@@ -53,6 +53,17 @@
 	bottom: 0;
 	background: linear-gradient(transparent, #000);
 }
+/*Front Page CSS*/
+.headshot{
+	height:300px;
+	width: 300px;
+}
+/*resume page CSS*/
+#resumeEmbed{
+	width:250%;
+	height:1500px;
+	float:left;
+}
 /* Portfolio page CSS*/
 .wrapper {
     padding: 50px 50px;
@@ -177,6 +188,7 @@
 
 #content-5 {
 	background-image: url(../img/bg4.jpg);
+	padding-right: 500px;
 }
 
 #content-6 {
